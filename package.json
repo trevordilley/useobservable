@@ -1,0 +1,33 @@
+{
+  "name": "@trevordilley/useobservable",
+  "version": "0.0.0",
+  "description": "use RxJS via this useObservable",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "react-dom": "^17.0.1",
+    "typescript": "^3.9.7",
+    "@types/react": "^16.14.2",
+    "@types/react-dom": "^16.9.10",
+    "react": "^17.0.1",
+    "rxjs": "^6.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trevordilley/useobservable"
+  },
+  "keywords": [
+    "RxJS",
+    "react",
+    "hooks"
+  ],
+  "author": "trevordilley",
+  "license": "MIT"
+}
